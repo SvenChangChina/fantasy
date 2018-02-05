@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.7.199:8000/jenkins_fantasy/package_aypb/ios/_new_fantasy.ipa</string>
+                    <string>http://10.42.0.4:8000/jenkins_fantasy/package_aypb/ios/_new_fantasy.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
